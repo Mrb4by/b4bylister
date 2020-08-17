@@ -1,4 +1,4 @@
-# b4bylister
+# b4byliste
 Use b4bydomlister Subdomain Finder In Order To Make Your Reconnaissance Process Faster And Effortless
 
 As we know finding subdomains of a particular website let us explore the full domain infrastructure of it. Building such a tool is really handy when it comes to information gathering phase in penetration testing for ethical hackers.
